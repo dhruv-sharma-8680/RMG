@@ -1,0 +1,2 @@
+python train.py --csv_path='../Dataset/Online Retail.xlsx' --model_save_path="models/model_v1.rec" --item_description_column_name="Description"
+
